@@ -26,7 +26,7 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
             </a>
         </li>
          <li>
-            <a href="www.linkedin.com/in/pedro-nakanishi">
+            <a href="https://www.linkedin.com/in/pedro-nakanishi">
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="20px" height="20px"> LinkedIn
             </a>
         </li>
