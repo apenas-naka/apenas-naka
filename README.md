@@ -34,7 +34,7 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
 </div>
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=naka)](https://github.com/anuraghazra/github-readme-stats)">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Naka)](https://github.com/anuraghazra/github-readme-stats)">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=N4ka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="Naka stats card" custom_title="Naka Stats">
 
