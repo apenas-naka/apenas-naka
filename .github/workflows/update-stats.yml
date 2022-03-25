@@ -1,20 +1,20 @@
-name: Waka Readme
+name: Waka Stats
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at every 12AM UTC
-    - cron: "5 * * * *"
-
+    # Runs at 12am IST
+    - cron: '5 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Naka's README
+    name: Atualizar Status
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_30_days
-          COMMIT_MESSAGE: Status atualizado!
-          SHOW_TIME: false
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: pt-BR
+          SHOW_LINES_OF_CODE: true
+          SHOW_LANGUAGE: true
+          SHOW_COMMITS: true
