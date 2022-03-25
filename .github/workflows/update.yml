@@ -14,3 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: "pt-BR"
+          LINES_OF_CODE: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "False"
