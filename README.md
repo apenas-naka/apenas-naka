@@ -33,9 +33,9 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
     </ul>
 </div>
 <hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://github-readme-stats.vercel.app/api?username=N4ka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide=stars,prs,issues,contribs?count_private=true" alt="Naka stats card" custom_title="Teste">
 
-<!---
-N4ka/N4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
