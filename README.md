@@ -35,14 +35,6 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
 <hr>
 
 <!--START_SECTION:waka-->
-
-```text
-From: 23 February 2022 - To: 25 March 2022
-
-HTML                   █████████████████████████   99.54 %
-CSS                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-```
-
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=N4ka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide=stars,prs,issues,contribs?count_private=true" alt="Naka stats card" custom_title="Teste">
