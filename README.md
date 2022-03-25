@@ -34,9 +34,7 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
 </div>
 <hr>
 
-[![Waka Stats](https://github.com/N4ka/N4ka/actions/workflows/update.yml/badge.svg)](https://github.com/N4ka/N4ka/actions/workflows/update.yml)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Naka)](https://github.com/anuraghazra/github-readme-stats)">
 
-<img src="https://github-readme-stats.vercel.app/api?username=N4ka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide=stars,prs,issues,contribs?count_private=true" alt="Naka stats card" custom_title="Teste">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=N4ka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="Naka stats card" custom_title="Naka Stats">
 
