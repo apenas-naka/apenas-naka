@@ -36,4 +36,5 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=N4ka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="Naka stats card" custom_title="Naka Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Naka">
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4ka&layout=compact">
