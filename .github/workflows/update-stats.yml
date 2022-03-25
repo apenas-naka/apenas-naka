@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.fb77365c-ea49-4069-bfc0-911694ffa67d }}
+          WAKATIME_API_KEY: ${{ secrets. }}
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           COMMIT_MESSAGE: Status atualizado!
