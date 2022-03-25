@@ -34,6 +34,7 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
 </div>
 <hr>
 
+[![Waka Stats](https://github.com/N4ka/N4ka/actions/workflows/update.yml/badge.svg)](https://github.com/N4ka/N4ka/actions/workflows/update.yml)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
