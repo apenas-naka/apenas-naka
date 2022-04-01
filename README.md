@@ -17,7 +17,7 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
         </li>
         <li>
             <a href="https://discord.com/app">
-                <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1648087309~hmac=e2e10382874a89e99910a7df3ba202f0" alt="Discord Logo" width="20px" height="20px"> Naka#8693
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo" width="20px" height="20px"> Naka#8693
             </a>
         </li>
          <li>
