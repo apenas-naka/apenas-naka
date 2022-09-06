@@ -25,11 +25,6 @@ Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer 
                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Google Mail Logo" width="20px" height="20px"> <code>pedro.nakanishi1782@gmail.com</code>
             </a>
         </li>
-         <li>
-            <a href="https://www.linkedin.com/in/pedro-nakanishi">
-                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="20px" height="20px"> LinkedIn
-            </a>
-        </li>
     </ul>
 </div>
 <hr>
