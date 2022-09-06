@@ -1,11 +1,13 @@
 <h1>Quem sou eu?</h1>
 <h2>🚀 Sobre mim</h2>
-<p>Pode me chamar de Naka, tenho 19 anos e atualmente estou estudando  <em>HTML/CSS/Javascript.</em>
-Já estudei um pouco de desenvolvimento de games, e <strong>até consegui fazer um jogo que nunca postei.</strong> Não tem muito mais o que dizer, apenas que sou um apaixonado na area de tecnologia e espero conseguir desenvolver aplicações que ajudem outras pessoas.</p>
+<p>Pode me chamar de Naka, tenho 20 anos. Um apreciador de One Piece e um viciado em GTA.</p>
+<q>Eu sumo mas to sempre aí pela área (de TI &#x1F605)</q>
 <h2>&#x2139 Info Extra</h2>
 <ul>
-    <li>Estudando sobre desenvolvimento front-end</li>
-    <li>Ele/Dele</li>
+    <li>Em uma relação de amor e ódio com HTML e CSS</li>
+    <li>Querendo aprender Javascript</li>
+    <li>Tenho um TDAH fora de série!</li>
+    <li>Minha memória é péssima</li>
 </ul>
 <h2>&#x1F4F1 Contato</h2>
 <div>
