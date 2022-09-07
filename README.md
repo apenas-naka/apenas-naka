@@ -36,6 +36,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 55 mins
+
 HTML    55 mins         █████████████████████████   99.85 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
