@@ -36,12 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 57 mins
+Total Time: 6 mins
 
-CSS      1 hr 2 mins     █████████████▒░░░░░░░░░░░   52.68 %
-HTML     50 mins         ██████████▓░░░░░░░░░░░░░░   42.79 %
-Python   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   5 mins          ███████████████████▓░░░░░   78.58 %
+CSS      1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+HTML     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
