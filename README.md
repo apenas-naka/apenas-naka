@@ -36,11 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 mins
-
-Python   5 mins          ███████████████████▓░░░░░   78.58 %
-CSS      1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-HTML     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
