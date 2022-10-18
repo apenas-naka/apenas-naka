@@ -36,10 +36,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 52 mins
+Total Time: 1 hr 41 mins
 
-CSS    32 mins         ███████████████▒░░░░░░░░░   60.94 %
-HTML   20 mins         █████████▓░░░░░░░░░░░░░░░   39.06 %
+CSS    1 hr 1 min      ███████████████▒░░░░░░░░░   60.68 %
+HTML   40 mins         █████████▓░░░░░░░░░░░░░░░   39.32 %
 ```
 
 <!--END_SECTION:waka-->
