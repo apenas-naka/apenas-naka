@@ -36,13 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 37 mins
+Total Time: 0 secs
 
-HTML     26 mins         ██████████████████░░░░░░░   72.64 %
-Git      7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-CSS      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
