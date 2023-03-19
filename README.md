@@ -1,4 +1,4 @@
-<h1>🚀 Sobre mim</h1>
+<h1>&#x2753 Sobre mim</h1>
 <p> Atualmente estou me aprimorando na lógica de programação e faço algoritmos em python &#x1F40D<br>
  Em um futuro não tão distante (assim espero) pretendo me aprimorar para conseguir desenvolver aplicativos com GUI.<br>
 Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area front-end está nos meus planos!</p>
