@@ -34,8 +34,10 @@ Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area 
 </div>
 <hr>
 
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=apenas-naka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="Naka stats card" custom_title="Naka Stats">
-
+-->
+<h4>Naka's stats</h3>
 <!--START_SECTION:waka-->
 
 ```text
