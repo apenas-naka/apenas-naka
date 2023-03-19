@@ -1,13 +1,16 @@
-<h1>Quem sou eu?</h1>
-<h2>🚀 Sobre mim</h2>
-<p>Pode me chamar de Naka, tenho 20 anos. Um apreciador de One Piece e um viciado em GTA.</p>
-<q>Eu sumo mas to sempre aí pela área (de TI &#x1F605)</q>
-<h2>&#x2139 Info Extra</h2>
+<h1>🚀 Sobre mim</h1>
+<p> Atualmente estou me aprimorando na lógica de programação e faço algoritmos em python &#x1F40D<br>
+ Em um futuro não tão distante (assim espero) pretendo me aprimorar para conseguir desenvolver aplicativos com GUI.<br>
+Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area front-end está nos meus planos!</p>
+<q>O impossível não é um fato, impossível é uma opinião.</q>- Muhammad Ali
+<hr>
+<h2>&#x2611 Metas</h2>
 <ul>
-    <li>Em uma relação de amor e ódio com HTML e CSS</li>
-    <li>Querendo aprender Javascript</li>
-    <li>Tenho um TDAH fora de série!</li>
-    <li>Minha memória é péssima</li>
+    <li>&#x1F5F9 Aprendendo lógica de programação</li>
+    <li>&#x1F5F9 Desenvolver algoritmos em python</li>
+    <li>&#x2612 Estudar Javascript</li>
+    <li>&#x2612 Criar sites usando HTML, CSS e Javascript</li>
+    <li>&#x2612 Aprender sobre back-end</li>
 </ul>
 <h2>&#x1F4F1 Contato</h2>
 <div>
@@ -31,7 +34,7 @@
 </div>
 <hr>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=N4ka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="Naka stats card" custom_title="Naka Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=apenas-naka&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="Naka stats card" custom_title="Naka Stats">
 
 <!--START_SECTION:waka-->
 
