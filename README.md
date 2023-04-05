@@ -42,9 +42,10 @@ Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 5 hrs 22 mins
 
-No activity tracked
+Python   5 hrs 21 mins   █████████████████████████   99.83 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
