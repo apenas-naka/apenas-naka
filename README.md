@@ -42,10 +42,13 @@ Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 22 mins
+Total Time: 11 hrs 15 mins
 
-Python   5 hrs 21 mins   █████████████████████████   99.83 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python   9 hrs 3 mins    ████████████████████░░░░░   80.43 %
+CSS      1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+HTML     53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
