@@ -42,13 +42,11 @@ Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 2 mins
+Total Time: 2 hrs 13 mins
 
-HTML         1 hr 25 mins    ███████████▓░░░░░░░░░░░░░   46.83 %
-JavaScript   45 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-CSS          38 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-Python       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+HTML         53 mins         ██████████░░░░░░░░░░░░░░░   39.81 %
+JavaScript   42 mins         ████████░░░░░░░░░░░░░░░░░   31.69 %
+CSS          38 mins         ███████░░░░░░░░░░░░░░░░░░   28.51 %
 ```
 
 <!--END_SECTION:waka-->
