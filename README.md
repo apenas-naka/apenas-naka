@@ -42,10 +42,9 @@ Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 mins
+Total Time: 0 secs
 
-CSS    10 mins         █████████████████░░░░░░░░   68.41 %
-HTML   4 mins          ████████░░░░░░░░░░░░░░░░░   31.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
