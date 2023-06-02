@@ -41,7 +41,7 @@ Também sou apaixonado por desenvolvimento web, aprender e me aprimorar na area 
 <h4>Naka's stats</h3>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 0 secs
 
 No activity tracked
